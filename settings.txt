@@ -1,0 +1,4 @@
+window size (in percentage):
+100
+Music Muted:
+False
